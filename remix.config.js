@@ -2,7 +2,7 @@
 module.exports = {
   ignoredRouteFiles: ["**/.*"],
   future: {
-    v2_meta: true,
+    v2_meta: false,
   },
   // appDirectory: "app",
   // assetsBuildDirectory: "public/build",
